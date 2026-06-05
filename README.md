@@ -14,7 +14,7 @@
 
 ---
 
-I'm a software developer and systems engineer in Gaborone, Botswana, currently CTO at Knock TogetIT. Most of my work is backend — ASP.NET Core and Blazor on Azure — for clients across enterprise, government, and the occasional startup. I care about systems that stay stable, secure, and maintainable long after the demo is over, and I'm not precious about reaching for low-code when Power Platform is the faster, saner answer.
+I'm a software developer and systems engineer in Gaborone, Botswana. Most of my work is backend — ASP.NET Core and Blazor on Azure — for clients across enterprise and the occasional startup. I care about systems that stay stable, secure and maintainable long after the demo is over and I'm not precious about reaching for low-code when Power Platform is the faster, saner answer.
 
 ---
 
@@ -50,20 +50,6 @@ Tooling
 
 ---
 
-## Selected work
-
-<!-- Replace the bare names with real repo or demo links, e.g. [BOCRA Digital](https://github.com/danchoba/...) -->
-<!-- Delete any row you'd rather not show publicly -->
-
-**BOCRA Digital** — Civic-tech platform built for a hackathon: an AI assistant, a transparency dashboard, and a whistleblower portal. *ASP.NET Core MVC, PostgreSQL, Render.*
-
-**Visitor Management System** — Multi-site visitor and permit workflows for an enterprise client. *ASP.NET Core, Azure SQL, Service Bus, Entra ID.*
-
-**APDI Platform** — Client-facing web platform, built from the ground up. *ASP.NET Core MVC, PostgreSQL, Render.*
-
-**Application Portfolio Manager** — Internal tool for cataloguing and governing an application portfolio. *Blazor Server, Azure SQL.*
-
----
 
 ## Activity
 
@@ -83,10 +69,6 @@ Usually outdoors after dark — stargazing, deep house playing low (currently *S
 > Life can only be understood backwards; but it must be lived forwards. — Søren Kierkegaard
 
 ---
-
-## Links
-
-[Portfolio](https://danchoba.github.io) · [X / @KaoneDaniel](https://x.com/KaoneDaniel)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d2818&height=110&section=footer" width="100%" />
